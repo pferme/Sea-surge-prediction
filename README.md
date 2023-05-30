@@ -5,3 +5,4 @@ Resolution of the challenge https://challengedata.ens.fr/participants/challenges
 It achieves a score of 0.4993 using relatively few computing ressources.
 
 Slides presenting the result and the techniques used available as 'Sea-surge-prediction.pdf'
+Code as a Jupyter notebook set up with the right hyperparameters available as 'Sea-surge-prediction.ipynb'
